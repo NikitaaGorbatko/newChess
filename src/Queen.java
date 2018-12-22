@@ -5,6 +5,7 @@ public class Queen extends Chessman {
     Queen(boolean color, byte position) {
         super(color, position, 'q');
         this.color = color;
+        //some comments
     }
 
     @Override
