@@ -8,6 +8,9 @@ public class Queen extends Chessman {
         //some comments
     }
 
+    void testForGit() {}
+
+
     @Override
     boolean setPosition(int pos) {
         return false;
