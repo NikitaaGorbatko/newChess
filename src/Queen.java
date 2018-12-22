@@ -8,7 +8,7 @@ public class Queen extends Chessman {
         //some comments
     }
 
-    void testForGit() {}
+    void testForGit() {}//jnkjn
 
 
     @Override
